@@ -3,7 +3,10 @@
 ## Getting Started
 
 This project is a Flutter application for mobile phones which volume button is broken.
-如果你的手机，音量不幸地老化或损坏了，以至于无法使用物理按钮控制音量，这个或许是你想要的。
+
+如果你的手机，音量键不幸地老化或损坏了，以至于无法使用物理按钮控制音量，这个或许是你想要的。
+
+更多介绍见 [https://ceil.top/CODES/flutter-soft-volumn.html](https://ceil.top/CODES/flutter-soft-volumn.html)
 
 ## Docs
 
